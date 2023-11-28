@@ -1,2 +1,5 @@
 # yusuf-repository
-Ini adalah file latihan membuat landing page dengan html dasar
+Membuat sebuah repository
+Apa yang ingin dipelajari dari video
+1. Ingin mengetahui hubungan antara Git dan Github
+2. Ingin mengetahui lebih jauh manfaat GitHub
